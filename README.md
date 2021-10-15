@@ -4,7 +4,7 @@
 [![Node.js CI status](https://github.com/fengzilong/webpack-stats-tree/workflows/Node.js%20CI/badge.svg)](https://github.com/fengzilong/webpack-stats-tree/actions)
 [![npm](https://img.shields.io/npm/dm/webpack-stats-tree.svg)](https://www.npmjs.org/package/webpack-stats-tree)
 
-Parse webpack stats to `chunk → modules → file` tree
+Answer to "What's in the bundle"
 
 <img src="media/screenshot.jpg" alt="screenshot" width="500" />
 

@@ -1,7 +1,14 @@
 {
   "name": "webpack-stats-tree",
   "version": "0.1.2",
-  "description": "Parse webpack stats to `chunk → modules → file` tree",
+  "description": "Answer to \"What's in the bundle\"",
+  "keywords": [
+    "webpack",
+    "bundle",
+    "analyze",
+    "module",
+    "stats"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "FORCE_COLOR=3 jest",
@@ -15,7 +22,6 @@
     "type": "git",
     "url": "git+https://github.com/fengzilong/webpack-stats-tree.git"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
