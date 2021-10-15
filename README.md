@@ -1,6 +1,8 @@
 # webpack-stats-tree
 
+[![npm](https://img.shields.io/npm/v/webpack-stats-tree.svg)](https://www.npmjs.org/package/webpack-stats-tree)
 [![Node.js CI status](https://github.com/fengzilong/webpack-stats-tree/workflows/Node.js%20CI/badge.svg)](https://github.com/fengzilong/webpack-stats-tree/actions)
+[![npm](https://img.shields.io/npm/dm/webpack-stats-tree.svg)](https://www.npmjs.org/package/webpack-stats-tree)
 
 Parse webpack stats to `chunk → modules → file` tree
 
