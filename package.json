@@ -8,9 +8,9 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
-  "directories": {
-    "lib": "lib"
-  },
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/webpack-stats-tree.git"
