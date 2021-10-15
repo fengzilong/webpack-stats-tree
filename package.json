@@ -4,7 +4,7 @@
   "description": "Parse webpack stats to `chunk → modules → file` tree",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jest",
+    "test": "FORCE_COLOR=3 jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
