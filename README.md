@@ -8,7 +8,7 @@ Answer to "What's in the bundle"
 
 <img src="media/screenshot.jpg" alt="screenshot" width="500" />
 
-You can see which modules and files are in your chunk 🎉
+You can see which modules and files are in your asset 🎉
 
 ## Installation
 
