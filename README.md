@@ -16,6 +16,19 @@ You can see which modules and files are in your chunk 🎉
 npm i webpack-stats-tree
 ```
 
+## Webpack Plugin
+
+```js
+const WebpackStatsTreePlugin = require( 'webpack-stats-tree' ).Plugin
+
+// in your webpack config
+{
+  plugins: [
+    new WebpackStatsTreePlugin()
+  ]
+}
+```
+
 ## API
 
 ```js
